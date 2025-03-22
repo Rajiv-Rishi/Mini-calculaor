@@ -1,2 +1,2 @@
-# Mini-calculaor
+# Mini-calculator
 Mini calculator python Project..
